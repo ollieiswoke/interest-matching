@@ -1,5 +1,7 @@
 # interest-matching
 A group of people all nominate interests. The program matches them with 2-4 people with as many similar interests as possible. 
+The program also assigns one person from each pair to "reach out" to the other. 
+The output is the text for a series of emails so that each person knows who to reach out to and what they have in common.
 
 ## Example output
 ```
